@@ -72,10 +72,10 @@ I-am-Eternatus9999
 
 <p align="center">
 <a href="https://eternatus9999.github.io/Portfolio/"><img src="https://img.shields.io/badge/-chathushapehemina.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/chathusha-alagiyawanna"><img src="https://img.shields.io/badge/Chathusha%20Pehemina%20Alagiyawanna-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/chathusha-alagiyawanna-847980312/"><img src="https://img.shields.io/badge/Chathusha%20Pehemina%20Alagiyawanna-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:vinuthsriarampath@outlook.com"><img src="https://img.shields.io/badge/-vinuthsriarampath@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/vinuth_arampath"><img src="https://img.shields.io/badge/-@VinuthSriArampath_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/vinuthsriarampath"><img src="https://img.shields.io/badge/-@VinuthSriArampath-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/kython_9999_cp/"><img src="https://img.shields.io/badge/-@VinuthSriArampath_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100074103738483"><img src="https://img.shields.io/badge/-@VinuthSriArampath-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 </p>
 
