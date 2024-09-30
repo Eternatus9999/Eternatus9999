@@ -22,7 +22,8 @@
 I-am-Eternatus9999
 -------------------------
 💻 I am a self taught Full Stack Developer.
-📝 I have a strong interest in Software Development, Game Development, 3D Editing, Gaming, Drawing and watching anime
+📝 I have a strong interest in Software Development, Game Development, 3D Editing
+😎 Gaming, Drawing and watching anime
 🌟 Main languages: Sinhala,English,Japanese
 🎵 Phonk Music 
 ```
