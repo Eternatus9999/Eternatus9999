@@ -1,6 +1,7 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <br>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Chathusha Pehemina （ぺへミナ チャトゥーシャと申します)</h1>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">😎, I am Chathusha Pehemina （ぺへミナ チャトゥーシャと申します)</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+stack+Developer;Gamer;Graphic+Designer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
