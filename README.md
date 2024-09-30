@@ -21,8 +21,8 @@
 I-am-Eternatus9999
 -------------------------
 💻 I am a self taught Full Stack Developer.
-📝 I have a strong interest in Software Development,Gaming and YT Streaming
-🌟 Main languages: Sinhala,English
+📝 I have a strong interest in Software Development, Game Development, 3D Editing, Gaming, Drawing and watching anime
+🌟 Main languages: Sinhala,English,Japanese
 🎵 Phonk Music 
 ```
 <hr>
@@ -73,9 +73,9 @@ I-am-Eternatus9999
 <p align="center">
 <a href="https://eternatus9999.github.io/Portfolio/"><img src="https://img.shields.io/badge/-chathushapehemina.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/chathusha-alagiyawanna-847980312/"><img src="https://img.shields.io/badge/Chathusha%20Pehemina%20Alagiyawanna-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:vinuthsriarampath@outlook.com"><img src="https://img.shields.io/badge/-vinuthsriarampath@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/kython_9999_cp/"><img src="https://img.shields.io/badge/-@VinuthSriArampath_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100074103738483"><img src="https://img.shields.io/badge/-@VinuthSriArampath-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="outlook_BF57F039593266F6@outlook.com"><img src="https://img.shields.io/badge/-chathushapehemina@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/kython_9999_cp/"><img src="https://img.shields.io/badge/-@ChathushaPehemina_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100074103738483"><img src="https://img.shields.io/badge/-@ChathushaPehemina-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 </p>
 
