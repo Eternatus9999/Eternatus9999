@@ -32,10 +32,10 @@ I-am-Eternatus9999
 
 ### Here's my github README stats:
 
-![Chathusha Pehemina GitHub stats](https://github-readme-stats.vercel.app/api?username=Eternatus9999&show_icons=true&theme=great-gatsby) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eternatus9999&theme=great-gatsby)](https://git.io/streak-stats) 
+![Chathusha Pehemina GitHub stats](https://github-readme-stats.vercel.app/api?username=Eternatus9999&show_icons=true&theme=shadow_red) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eternatus9999&theme=shadow_red)](https://git.io/streak-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eternatus9999&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eternatus9999&theme=great-gatsby)](https://github.com/Eternatus9999/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eternatus9999&theme=shadow_red)](https://github.com/Eternatus9999/github-readme-stats)
 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
