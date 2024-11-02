@@ -34,6 +34,7 @@ I-am-Eternatus9999
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Chathusha Pehemina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Eternatus9999&show_icons=true&theme=shadow_red" height="200px"/>
   </a>
+  <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Chathuhsa Pehemina's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Eternatus9999&theme=shadow_red" height="200px"/>
   </a>
