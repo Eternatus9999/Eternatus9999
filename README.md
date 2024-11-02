@@ -30,8 +30,28 @@ I-am-Eternatus9999
 <hr>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Chathusha Pehemina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Eternatus9999&show_icons=true&theme=shadow_red" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Chathuhsa Pehemina's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Eternatus9999&theme=shadow_red" height="192px"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Chathusha Pehemina's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=Eternatus9999&theme=darkhub" height="192px"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Chathusha Pehemina's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eternatus9999&theme=shadow_red" height="192px"/>
+  </a>
+</p>
+
 ### Here's my github README stats:
 
+<!--
 ![Chathusha Pehemina GitHub stats](https://github-readme-stats.vercel.app/api?username=Eternatus9999&show_icons=true&theme=shadow_red) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eternatus9999&theme=shadow_red)](https://git.io/streak-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eternatus9999&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
@@ -45,6 +65,7 @@ I-am-Eternatus9999
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+-->
 <!--
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
