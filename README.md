@@ -32,20 +32,20 @@ I-am-Eternatus9999
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Chathusha Pehemina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Eternatus9999&show_icons=true&theme=shadow_red" height="192px"/>
+    <img alt="Chathusha Pehemina's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Eternatus9999&show_icons=true&theme=shadow_red" height="200px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Chathuhsa Pehemina's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Eternatus9999&theme=shadow_red" height="192px"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Chathusha Pehemina's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=Eternatus9999&theme=darkhub" height="192px"/>
+    <img alt="Chathuhsa Pehemina's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Eternatus9999&theme=shadow_red" height="200px"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Chathusha Pehemina's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eternatus9999&theme=shadow_red" height="192px"/>
+    <img alt="Chathusha Pehemina's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=Eternatus9999&theme=darkhub" height="200px"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Chathusha Pehemina's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eternatus9999&theme=shadow_red" height="00px"/>
   </a>
 </p>
 
