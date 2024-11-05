@@ -9,10 +9,10 @@
 <img src="https://komarev.com/ghpvc/?username=Eternatus9999&color=blue" alt="watching_count" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-20-blue" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-blue" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-blue" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala%20%26%20Japanese-blue" />
+  <img src="https://img.shields.io/badge/Age-20-red" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-red" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-red" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala%20%26%20Japanese-red" />
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img align="left" src="download.jpeg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
