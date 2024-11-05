@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+stack+Developer;Gamer;Graphic+Designer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Eternatus9999&color=blue" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=Eternatus9999&color=red" alt="watching_count" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Age-20-red" />
