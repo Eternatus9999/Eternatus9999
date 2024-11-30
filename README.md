@@ -25,6 +25,7 @@ I-am-Chathusha Pehemina
 📝 I have a strong interest in Software Development, Game Development, 3D Editing
 😎 Gaming, Drawing, watching anime and learning
 🌟 Main languages: Sinhala,English,Japanese
+🏆 Main goal is to go and live in japan(日本語にすんでいたいです。)
 🎵 All Music 
 ```
 <hr>
