@@ -47,7 +47,7 @@ I-am-Chathusha Pehemina
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Chathusha Pehemina's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eternatus9999&theme=shadow_red" height="200px"/>
+    <img alt="Chathusha Pehemina's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eternatus9999&theme=shadow_red" height="350px"/>
   </a>
 </p>
 
