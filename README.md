@@ -1,4 +1,4 @@
-![Github Banner](./github-header-image.png)
+![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
 <br>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">😎, I am Chathusha Pehemina （ぺへミナ チャトゥーシャと申します)</h1>
