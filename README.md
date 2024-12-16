@@ -91,6 +91,4 @@ I-am-Chathusha Pehemina
 <a href="outlook_BF57F039593266F6@outlook.com"><img src="https://img.shields.io/badge/-chathushapehemina@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/kython_9999_cp/"><img src="https://img.shields.io/badge/-@ChathushaPehemina_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100074103738483"><img src="https://img.shields.io/badge/-@ChathushaPehemina-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
 </p>
-
