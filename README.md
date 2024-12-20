@@ -59,7 +59,7 @@ I-am-Chathusha Pehemina
 
 ### 🎆 &nbsp;Frameworks 
 
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,angular,react,expressjs,flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,angular,react,vite,threejs,expressjs,flutter&theme=dark)](https://skillicons.dev)
 
 ### 🗃 &nbsp;Databases
 
@@ -80,6 +80,10 @@ I-am-Chathusha Pehemina
 ### 🖌️ &nbsp;Designing Tools 
 
 [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,ae,pr&theme=dark)](https://skillicons.dev)
+
+### 🎮 &nbsp;Game Developing Tools
+
+[![My Skills](https://skillicons.dev/icons?i=blender,unreal&theme=dark)](https://skillicons.dev)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
