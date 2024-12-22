@@ -55,7 +55,7 @@ I-am-Chathusha Pehemina
 
 ### 🏮 &nbsp;Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,bootstrap,dart&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,bootstrap,dart,cpp,cs&theme=dark)](https://skillicons.dev)
 
 ### 🎆 &nbsp;Frameworks 
 
