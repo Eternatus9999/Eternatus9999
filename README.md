@@ -26,7 +26,8 @@ I-am-Chathusha Pehemina
 😎 Gaming, Drawing, watching anime and learning
 🌟 Main languages: Sinhala,English,Japanese
 🏆 Main goal is to go and live in japan(日本語にすんでいたいです。)
-🎵 All Music 
+🎵 All Music
+🎯 Main Goal is to go to Japan and be a developer.
 ```
 <hr>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
