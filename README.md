@@ -56,11 +56,11 @@ I-am-Chathusha Pehemina
 
 ### 🏮 &nbsp;Languages 
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,bootstrap,dart,cpp,cs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,dart,cpp,cs&theme=dark)](https://skillicons.dev)
 
 ### 🎆 &nbsp;Frameworks 
 
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,angular,react,vite,threejs,expressjs,flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,bootstrap,nodejs,angular,react,vite,threejs,expressjs,flutter&theme=dark)](https://skillicons.dev)
 
 ### 🗃 &nbsp;Databases
 
