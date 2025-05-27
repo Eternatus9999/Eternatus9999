@@ -60,7 +60,7 @@ I-am-Chathusha Pehemina
 
 ### 🎆 &nbsp;Frameworks 
 
-[![My Skills](https://skillicons.dev/icons?i=spring,bootstrap,nodejs,angular,react,vite,threejs,expressjs,flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,bootstrap,tailwind,nodejs,angular,react,vite,threejs,expressjs,flutter&theme=dark)](https://skillicons.dev)
 
 ### 🗃 &nbsp;Databases
 
