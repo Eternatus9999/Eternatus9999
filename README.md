@@ -23,7 +23,7 @@ I-am-Chathusha Pehemina
 -------------------------
 💻 I am a self taught Full Stack Developer.
 📝 I have a strong interest in Software Development, Game Development, 3D Editing
-😎 Gaming, Drawing, watching anime and learning
+😎 Gaming, Drawing, watching anime and learning languages & programming language
 🌟 Main languages: Sinhala,English,Japanese
 🏆 Main goal is to go and live in japan(日本語にすんでいたいです。)
 🎵 All Music
